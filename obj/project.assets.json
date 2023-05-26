@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\workspace\\translate-csharp-js\\fizzbuzz\\csharp\\csharp.csproj",
-      "projectName": "csharp",
-      "projectPath": "C:\\Users\\user\\workspace\\translate-csharp-js\\fizzbuzz\\csharp\\csharp.csproj",
+      "projectUniqueName": "C:\\Users\\user\\workspace\\translate-csharp-js\\fizzbuzz\\csharp\\fizzbuzz.csproj",
+      "projectName": "fizzbuzz",
+      "projectPath": "C:\\Users\\user\\workspace\\translate-csharp-js\\fizzbuzz\\csharp\\fizzbuzz.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\user\\workspace\\translate-csharp-js\\fizzbuzz\\csharp\\obj\\",
       "projectStyle": "PackageReference",
